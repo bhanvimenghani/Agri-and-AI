@@ -1,7 +1,7 @@
 # Agri-and-AI
 Connecting  Farmers with Technology
 # Logo
-<img src="https://github.com/Delhi-Hacks-2/Agri-and-AI/blob/master/static/AgriandAILogo.png
+<img src="https://github.com/Delhi-Hacks-2/Agri-and-AI/blob/master/static/AgriandAILogo.png">
 
 
 # Team Members
@@ -12,4 +12,6 @@ Connecting  Farmers with Technology
 ### Saving Poor Farmers from extreme pressure by solving crop value prediction problem in an efficient way to ensure the guaranteed benefits to the poor farmers. Machine Learning techniques on various data to came out with better solution. This solution uses Decision Tree Regression technique to predict the crop value using the data.
 
 # PPT Link :
-# Video Link : https://youtu.be/WoR4ay155xE
+# Video Link : 
+
+          https://youtu.be/WoR4ay155xE
